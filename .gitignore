@@ -1,0 +1,5 @@
+*.wasm
+*.wast
+keys/*.*
+Project/build
+.idea/
